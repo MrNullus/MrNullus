@@ -1,7 +1,9 @@
-- Olá! Sou o Gustavo Henrique um aficcionado por programação.
-- Tenho interesse em desenvolvimento Web e de softaweres
-- 🌱 Atualmente estou estudando Bootstrap, JQuery, JavaScript e Python
-- 💞️ Estou procurando conhecimento na área de desenvolvimento web e coisas novas em programação
+- 👦🏾 Hello World! Sou o Gustavo Henrique um aficcionado por programação;
+  - _I love you code_ 💖;
+- ✨ Tenho interesse em desenvolvimento Web e de softaweres ✨;
+- 📚✍️Atualmente estou estudando Bootstrap, JQuery, JavaScript e Python;
+- 👨‍💻Estou procurando conhecimento na área de desenvolvimento web e coisas novas sobre o mundo de T.I;
+- 🚀Tenho um unico sonho que é estudar, viver e amar a programação;
 
 <div>
   <a href="https://github.com/dev-gustavo-henrique">
