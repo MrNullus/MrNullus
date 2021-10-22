@@ -29,12 +29,12 @@
  ## Meus contatos :iphone:
 
 <p align="center">
-    <a href="https://github.com/teteusAraujo">
+    <a href="https://github.com/dev-gustavo-henrique">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/dev-gustavo-herique">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:gustavojs417@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavojs417@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/mateusaraujobarros">
@@ -44,7 +44,7 @@
   
 <p align="center"> 
 
- ## Total de visitas no meu perfil :detective: <br>
+ ## Total de visitas no meu perfil<br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/dev-gustavo-henrique/count.svg" />
  </p>
