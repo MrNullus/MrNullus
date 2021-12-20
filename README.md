@@ -1,6 +1,6 @@
 # console.log("Hello World!🚀");
 ## nameDeveloper === "Gustavo Henrique";
-
+<img  style="display: inline-block" src="./mygif.gif" width="480px" height="480px"/>
 
 ### function descrition() {<br>
    &nbsp;&nbsp;&nbsp; console.log("Me chamo Gustavo, sou brasileiro, tenho 16 anos e sou um Dev Front-End Jr.");<br>
@@ -10,25 +10,26 @@
 
             { I'am love you code!❤️ }
 
-<img align="left" src="./mygif.gif" width="350vw" height="200vw"/>
 
-### let AreasOfInterest = [
-  "Desenv. Web Frond-End",
-  "Web Design - UX & UI",
-  "Desenv. de Sistemas",
-  "Desenv. Mobile"
-  
-];
+### let AreasOfInterest = [ <br>
+  &nbsp;&nbsp;&nbsp; "Desenv. Web Frond-End",<br>
+  &nbsp;&nbsp;&nbsp; "Web Design - UX & UI",<br>
+  &nbsp;&nbsp;&nbsp; "Desenv. de Sistemas",<br>
+  &nbsp;&nbsp;&nbsp; "Desenv. Mobile"
+   
+### ];
+   
+<br>
 
 ### ✍️ Studying Recently
--  Bootstrap && JQuery && JavaScript && Sass;
+  -  Bootstrap && JQuery && JavaScript && Sass;
 
 ### 📚 Upcoming studies:
--   React.JS && Angular && PHP && Vue && Node
+  -   React.JS && Angular && PHP && Vue && Node
+</div>
 
 <br>
 
-<div>
   <a href="https://github.com/dev-gustavo-henrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-gustavo-henrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gustavo-henrique&layout=compact&langs_count=7&theme=radical"/>
