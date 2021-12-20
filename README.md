@@ -1,7 +1,17 @@
-# console.log("Hello World!");
+# console.log("Hello World!🚀");
 ## nameDeveloper === "Gustavo Henrique";
-            { I'am love you code! };
-  
+
+
+### function descrition() {<br>
+   &nbsp;&nbsp;&nbsp; console.log("Me chamo Gustavo, sou brasileiro, tenho 16 anos e sou um Dev Front-End Jr.");<br>
+   &nbsp;&nbsp;&nbsp; console.log("Estou proucurando mais desafios e um emprego.");<br>
+
+}
+
+            { I'am love you code!❤️ }
+
+<img align="left" src="./mygif.gif" width="350vw" height="200vw"/>
+
 ### let AreasOfInterest = [
   "Desenv. Web Frond-End",
   "Web Design - UX & UI",
@@ -54,7 +64,7 @@
 </kbd>
 
   
- ## Meus contatos :) :iphone:
+ ## Caso queira chamar para fazer algum projeto esses são meus contatos:iphone:
   
 <p align="center">
     <a href="https://github.com/dev-gustavo-henrique">
