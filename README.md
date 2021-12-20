@@ -1,18 +1,35 @@
-- Hello World! Sou o Gustavo Henrique um aficcionado por programação;
-  - _I love you code_ 💖;
-- ✨ Tenho interesse em desenvolvimento Web e de softaweres ✨;
-- 📚✍️Atualmente estou estudando Bootstrap, JQuery, JavaScript e Python;
-- 👨‍💻Estou procurando conhecimento na área de desenvolvimento web e coisas novas sobre o mundo de T.I;
+# console.log("Hello World!");
+## nameDeveloper === "Gustavo Henrique";
+            { I'am love you code! };
+  
+### let AreasOfInterest = [
+  "Desenv. Web Frond-End",
+  "Web Design - UX & UI",
+  "Desenv. de Sistemas",
+  "Desenv. Mobile"
+  
+];
+
+### ✍️ Studying Recently
+-  Bootstrap && JQuery && JavaScript && Sass;
+
+### 📚 Upcoming studies:
+-   React.JS && Angular && PHP && Vue && Node
+
+<br>
 
 <div>
   <a href="https://github.com/dev-gustavo-henrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-gustavo-henrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gustavo-henrique&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-##
+ 
+<br>
   
-<div style="display: inline_block"><br>
+<kbd>
+  <kbd>Minhas Skills</kbd>
+  <br>
+  <br>
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img  align="center" alt="Gustavo-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -20,13 +37,25 @@
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
  
   <!--   <img align="right" alt="" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
-</div>
- 
+</kbd>
+<br>
+<br>  
   
- ## Meus contatos :iphone:
+<kbd>
+  <kbd>Tools</kbd>
+  <br>
+  <br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
+</kbd>
 
+  
+ ## Meus contatos :) :iphone:
+  
 <p align="center">
     <a href="https://github.com/dev-gustavo-henrique">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/dev-gustavo-herique">
