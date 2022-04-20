@@ -1,6 +1,16 @@
-# console.log("Hello World!🚀");
-## nameDeveloper === "Gustavo Henrique";
-<img  style="display: inline-block" src="./mygif.gif" width="480px" height="480px"/>
+![Github_header](https://user-images.githubusercontent.com/88898454/162613510-d24014b6-b4ea-4f67-ba4a-19b4d956ceab.png)
+
+<div align="center">
+   <h1>< Hello World!🚀 /></h1>
+   <h2>nameDeveloper === "Gustavo Henrique";</h2>
+</div>
+
+ <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&color=DA275E&width=1109&height=113&lines=%7B+I'am+love+you+code!%E2%9D%A4%EF%B8%8F+%7D;If+your+sin+is+to+love+computers%2C+then+you+are+in+the+right+brothel.">
+
+<div>
+   <img align="right" src="./mygif.gif" width="480px" height="480px"/>
+</div>
+
 
 ### function descrition() {<br>
    &nbsp;&nbsp;&nbsp; console.log("Me chamo Gustavo, sou brasileiro, tenho 16 anos e sou um Dev Front-End Jr.");<br>
@@ -8,10 +18,8 @@
 
 }
 
-            { I'am love you code!❤️ }
-            
 <h3>Favorite quote: </h3>
-“I always did something I was a little not ready to do. I think that’s how you grow. When there’s that moment of ‘Wow, I’m not really sure I can do this,’ and you push through those moments, that’s when you have a breakthrough.” – Marissa Mayer
+   “I always did something I was a little not ready to do. I think that’s how you grow. When there’s that moment of ‘Wow, I’m not really sure I can do this,’ and you push through those moments, that’s when you have a breakthrough.” – Marissa Mayer
 
 
 ### let AreasOfInterest = [ <br>
