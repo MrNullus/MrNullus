@@ -43,7 +43,7 @@
 
   <a href="https://github.com/dev-gustavo-henrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-gustavo-henrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gustavo-henrique&layout=compact&langs_count=12&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gustavo-henrique&layout=compact&langs_count=10&theme=radical"/>
 </div>
  
 <br>
