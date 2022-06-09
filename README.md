@@ -1,5 +1,5 @@
 ![Github_header](https://user-images.githubusercontent.com/88898454/162613510-d24014b6-b4ea-4f67-ba4a-19b4d956ceab.png)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-gustavo-henrique&repo=github-readme-stats)](https://github.com/dev-gustavo-henrique/github-readme-stats)
+
 <div align="center">
    <h1>< Hello World!🚀 /></h1>
    <h2>nameDeveloper === "Gustavo Henrique";</h2>
