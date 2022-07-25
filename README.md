@@ -19,7 +19,7 @@
 }
 
 <h3>Favorite quote: </h3>
-   “I always did something I was a little not ready to do. I think that’s how you grow. When there’s that moment of ‘Wow, I’m not really sure I can do this,’ and you push through those moments, that’s when you have a breakthrough.” – Marissa Mayer
+  “Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.” – Rafael Lain
 
 
 ### let AreasOfInterest = [ <br>
@@ -41,9 +41,6 @@
 
 <br>
 
-  <a href="https://github.com/dev-gustavo-henrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-gustavo-henrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gustavo-henrique&layout=compact&langs_count=8&theme=radical"/>
 </div>
  
 <br>
