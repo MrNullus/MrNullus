@@ -12,9 +12,11 @@
 
 
 ### 👾 About me
-My name is Gustavo, I am Brazilian and I am a programming enthusiast.
-I am a stubborn person who is always looking for more and more challenges, seeking excellence and bringing more value to what I do. 
-I try to focus on being a FullStack developer 🐱‍💻 (having knowledge in both front-end and back-end technologies) 
+My name is Gustavo, I'm Brazilian and I'm a programming enthusiast. 
+I am an obstinate person who is always looking for more and more challenges, 
+seeking excellence and adding more value to what I do. 
+
+Focused on being a Full Stack developer 🐱‍💻 (having knowledge of front-end and back-end technologies) 
 and looking to venture further into mobile.
 
 
