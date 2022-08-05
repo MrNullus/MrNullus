@@ -14,5 +14,5 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
            user_name: jasineri
-           text: JASINERI
+           text: MsNullus
       - uses: jasineri/simple-push-action@v1
