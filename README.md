@@ -12,10 +12,10 @@
 
 
 ### 👾 About me
-My name is Gustavo, I'm Brazilian and I'm a programming aficionado.
-I am an obstinate person who always seeks more and more challenges, seeking excellence and bringing greater value to what I do.
-I try to focus on being a FullStack Developer 🐱‍💻 (having knowledge in both front-end and back-end technologies)
-and looking to venture into mobile yet.
+My name is Gustavo, I am Brazilian and I am a programming enthusiast.
+I am a stubborn person who is always looking for more and more challenges, seeking excellence and bringing more value to what I do. 
+I try to focus on being a FullStack developer 🐱‍💻 (having knowledge in both front-end and back-end technologies) 
+and looking to venture further into mobile.
 
 
 
@@ -115,7 +115,7 @@ and looking to venture into mobile yet.
 
 ## 📈 Github Stats
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msNullus&theme=omni)](https://git.io/streak-stats)<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Ms. Nullus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msNullus&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msNullus&theme=omni)](https://git.io/streak-stats)<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Ms. Nullus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msNullus&langs_count=12&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msNullus&theme=omni&show_icons=true) 
 
