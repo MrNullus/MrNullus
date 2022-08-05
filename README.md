@@ -117,7 +117,7 @@ and looking to venture further into mobile.
 
 ## 📈 Github Stats
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msNullus&theme=omni)](https://git.io/streak-stats)<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Ms. Nullus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msNullus&langs_count=12&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msNullus&theme=omni)](https://git.io/streak-stats)<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Ms. Nullus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msNullus&langs_count=10&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msNullus&theme=omni&show_icons=true) 
 
