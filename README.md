@@ -1,52 +1,53 @@
 ![Github_header](https://user-images.githubusercontent.com/88898454/162613510-d24014b6-b4ea-4f67-ba4a-19b4d956ceab.png)
-
+ 
 <div align="center">
    <h1>< Hello World!🚀 /></h1>
    <h2>nameDeveloper === "Gustavo Henrique";</h2>
 </div>
 
- <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&color=DA275E&width=1109&height=113&lines=%7B+I'am+love+you+code!%E2%9D%A4%EF%B8%8F+%7D;If+your+sin+is+to+love+computers%2C+then+you+are+in+the+right+brothel.">
-
-<div>
-   <img align="right" src="./mygif.gif" width="480px" height="480px"/>
-</div>
+ <!--<img align="" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&color=DA275E&width=1109&height=113&lines=%7B+I'am+love+you+code!%E2%9D%A4%EF%B8%8F+%7D;If+your+sin+is+to+love+computers%2C+then+you+are+in+the+right+brothel.">-->
+ 
+<img align="right" src="./mygif.gif" width="180px" height="180px" />
 
 
-### function descrition() {<br>
-   &nbsp;&nbsp;&nbsp; console.log("Me chamo Gustavo, sou brasileiro, tenho 16 anos e sou um Dev Front-End Jr.");<br>
-   &nbsp;&nbsp;&nbsp; console.log("Estou proucurando mais desafios e um emprego.");<br>
 
-}
+### 👾 About me
+My name is Gustavo, I'm Brazilian and I'm a programming aficionado.
+I am an obstinate person who always seeks more and more challenges, seeking excellence and bringing greater value to what I do.
+I try to focus on being a FullStack Developer 🐱‍💻 (having knowledge in both front-end and back-end technologies)
+and looking to venture into mobile yet.
 
-<h3>Favorite quote: </h3>
+
+
+### 🌟 Favorite quote:
   “Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.” – Rafael Lain
 
 
-### let AreasOfInterest = [ <br>
-  &nbsp;&nbsp;&nbsp; "Desenv. Web Frond-End",<br>
-  &nbsp;&nbsp;&nbsp; "Web Design - UX & UI",<br>
-  &nbsp;&nbsp;&nbsp; "Desenv. de Sistemas",<br>
-  &nbsp;&nbsp;&nbsp; "Desenv. Mobile"
-   
-### ];
-   
-<br>
+
+### 🎯 Areas of Interest
+- Develop. FullStack
+- Develop. Mobile
+- Develop. de Sistemas
+- Web Design - UX & UI
+
+
 
 ### ✍️ Studying Recently
-  -  Bootstrap && JQuery && JavaScript && Sass;
+  -  Bootstrap && JQuery && ReactJS e Native && Sass;
+
+
 
 ### 📚 Upcoming studies:
-  -   React.JS && Angular && PHP && Vue && Node
-</div>
-
-<br>
-
-</div>
- 
-<br>
+  -  Angular && PHP (with Laravel) && Vue && Node (with Express)
   
+  
+<hr>
+
+
+### 🛠 Skills and Tools
+
 <kbd>
-  <kbd>Minhas Skills</kbd>
+  <kbd>📌 My Skills</kbd>
   <br>
   <br>
   <img align="center" alt="Gustavo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -66,7 +67,7 @@
 <br>  
   
 <kbd>
-  <kbd>Tools</kbd>
+  <kbd>📌 Tools</kbd>
   <br>
   <br>
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -76,8 +77,27 @@
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 </kbd>
 
-  
- ## Caso queira chamar para fazer algum projeto esses são meus contatos:iphone:
+
+
+### 👔 Soft skills
+
+✅ Work collaboratively in a team
+
+✅ Meet tight deadlines
+
+✅ Good communication skills
+
+✅ Proactive
+
+✅ Obstinate 
+
+✅ High problem-solving skills
+
+
+<hr>
+
+
+ ## 📬 If you want to call me to carry out a project or just talk, these are my contacts:
   
 <p align="center">
     <a href="https://github.com/dev-gustavo-henrique">
@@ -92,12 +112,16 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/gustavohenrique/">
     </a>
 </p>
-  
-<p align="center"> 
 
- ## Total de visitas no meu perfil<br>
+## 📈 Github Stats
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msNullus&theme=omni)](https://git.io/streak-stats)<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Ms. Nullus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msNullus&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msNullus&theme=omni&show_icons=true) 
+
+ ### Total de visitas no meu perfil<br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/dev-gustavo-henrique/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/msNullus/count.svg" />
  </p>
   
 ![Snake animation](https://github.com/dev-gustavo-henrique/dev-gustavo-henrique/blob/output/github-contribution-grid-snake.svg)
