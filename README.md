@@ -115,6 +115,9 @@ and looking to venture further into mobile.
     </a>
 </p>
 
+## 🏆 Trophies 
+  <img src="https://github-profile-trophy.vercel.app/?username=msNullus&theme=dark&column=7" height="150" style="border-radius:50px;"/>
+
 ## 📈 Github Stats
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msNullus&theme=omni)](https://git.io/streak-stats)<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Ms. Nullus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msNullus&langs_count=10&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
@@ -125,5 +128,11 @@ and looking to venture further into mobile.
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/msNullus/count.svg" />
  </p>
+  
+## 😎 3D Contribution 
+
+  <img src="https://github.com/msNullus/msNullus/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+
+<a href="http://www.github.com/msNullus"><img src="https://activity-graph.herokuapp.com/graph?username=msNullus&count_private=true&bg_color=000&color=ffffff&line=ffd100&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   
 ![Snake animation](https://github.com/dev-gustavo-henrique/dev-gustavo-henrique/blob/output/github-contribution-grid-snake.svg)
