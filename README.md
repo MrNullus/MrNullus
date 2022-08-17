@@ -126,7 +126,7 @@ and looking to venture further into mobile.
 
  ### Total visits to my profile<br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/msNullus/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/dev-gustavo-henrique/count.svg" />
  </p>
   
 <!-- ## 😎 3D Contribution 
@@ -136,4 +136,4 @@ and looking to venture further into mobile.
 <a href="http://www.github.com/msNullus"><img src="https://activity-graph.herokuapp.com/graph?username=msNullus&count_private=true&bg_color=000&color=ffffff&line=ffd100&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->
   
-![Snake animation](https://github.com/dev-gustavo-henrique/dev-gustavo-henrique/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/msNullus/msNullus/blob/output/github-contribution-grid-snake.svg)
