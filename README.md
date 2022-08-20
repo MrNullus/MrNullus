@@ -27,9 +27,8 @@ and looking to venture further into mobile.
 
 
 ### 🎯 Areas of Interest
-- Develop. FullStack
-- Develop. Mobile
-- Develop. de Sistemas
+- Full Stack Developer
+- Software Engineering
 - Web Design - UX & UI
 
 
