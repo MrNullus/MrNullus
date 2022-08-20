@@ -7,7 +7,7 @@
 
  <!--<img align="" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&color=DA275E&width=1109&height=113&lines=%7B+I'am+love+you+code!%E2%9D%A4%EF%B8%8F+%7D;If+your+sin+is+to+love+computers%2C+then+you+are+in+the+right+brothel.">-->
  
-<img align="right" src="./mygif.gif" width="180px" height="180px" />
+<img align="right" src="./img-avatar2.png" width="180px" height="180px" />
 
 
 
