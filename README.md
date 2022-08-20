@@ -41,12 +41,13 @@ and looking to venture further into mobile.
 
 ### 📚 Upcoming studies:
   -  Angular && PHP (with Laravel) && Vue && Node (with Express)
-  
+
+<img align="right" src="./astronaut.png" width="280px" height="280px" />
   
 <hr>
 
 
-### 🛠 Skills and Tools
+### 🛠 Hard Skills and Tools
 
 <kbd>
   <kbd>📌 My Skills</kbd>
@@ -81,7 +82,7 @@ and looking to venture further into mobile.
 
 
 
-### 👔 Soft skills
+### 👔 Soft Skills
 
 ✅ Work collaboratively in a team
 
