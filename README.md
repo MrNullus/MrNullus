@@ -116,17 +116,17 @@ and looking to venture further into mobile.
 </p>
 
 ## 🏆 Trophies 
-  <img src="https://github-profile-trophy.vercel.app/?username=msNullus&theme=dark&column=7" height="150" style="border-radius:50px;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MrNullus&theme=dark&column=7" height="150" style="border-radius:50px;"/>
 
 ## 📈 Github Stats
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msNullus&theme=omni)](https://git.io/streak-stats)<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Ms. Nullus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msNullus&langs_count=10&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrNullus&theme=omni)](https://git.io/streak-stats)<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Mr. Nullus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNullus&langs_count=10&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msNullus&theme=omni&show_icons=true) 
+![Mr. Nullus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNullus&theme=omni&show_icons=true) 
 
  ### Total visits to my profile<br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/dev-gustavo-henrique/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/MrNullus/count.svg" />
  </p>
   
 <!-- ## 😎 3D Contribution 
