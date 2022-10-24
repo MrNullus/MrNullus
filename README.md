@@ -11,7 +11,7 @@
 
 
 
-### 👾 About me
+## 👾 About me
 My name is Gustavo, I'm Brazilian and I'm a programming enthusiast. 
 I am an obstinate person who is always looking for more and more challenges, 
 seeking excellence and adding more value to what I do. 
@@ -133,6 +133,17 @@ and looking to venture further into mobile.
 <br />
 
 
+## Holopin 🐱‍🐉
+
+<details>
+ <summary>Click to see details</summary>
+ <br />      
+       
+ [![@mrnullus's Holopin board](https://holopin.me/mrnullus)](https://holopin.io/@mrnullus)
+</details>
+<br />
+
+
 ## 🏆 Trophies 
 
 <details>
@@ -155,7 +166,7 @@ and looking to venture further into mobile.
 </details>
 <br>
  
- ### 🌟 Total visits to my profile
+ ## 🌟 Total visits to my profile
  
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/MrNullus/count.svg" />
