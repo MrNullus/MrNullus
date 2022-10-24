@@ -42,11 +42,18 @@ and looking to venture further into mobile.
   -  Angular && PHP (with Laravel) && Vue && Node (with Express)
 
 <img align="right" src="./astronaut.png" width="280px" height="280px" />
-  
+
+
+<br />
 <hr>
 
 
 ### 🛠 Hard Skills and Tools
+
+
+<details>
+ <summary>Click to see details</summary>
+ <br />      
 
 <kbd>
   <kbd>📌 My Skills</kbd>
@@ -78,10 +85,14 @@ and looking to venture further into mobile.
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 </kbd>
-
-
+</details>
+<br />
 
 ### 👔 Soft Skills
+
+<details>
+ <summary>Click to see details</summary>
+ <br />      
 
 ✅ Work collaboratively in a team
 
@@ -94,14 +105,18 @@ and looking to venture further into mobile.
 ✅ Obstinate 
 
 ✅ High problem-solving skills
-
-
+</details>
 <hr>
+<br/ >
 
 
  ## 📬 If you want to call me to carry out a project or just talk, these are my contacts:
-  
-<p align="center">
+
+<details>
+ <summary>Click to see details</summary>
+ <br />      
+       
+ <p align="center">
     <a href="https://github.com/dev-gustavo-henrique">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/dev-gustavo-herique">
     </a>
@@ -114,17 +129,34 @@ and looking to venture further into mobile.
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/gustavohenrique/">
     </a>
 </p>
+</details>
+<br />
+
 
 ## 🏆 Trophies 
-  <img src="https://github-profile-trophy.vercel.app/?username=MrNullus&theme=dark&column=7" height="150" style="border-radius:50px;"/>
+
+<details>
+ <summary>Click to see details</summary>
+ <br />      
+       
+ <img src="https://github-profile-trophy.vercel.app/?username=MrNullus&theme=dark&column=7" height="150" style="border-radius:50px;"/>
+</details>
+<br />
 
 ## 📈 Github Stats
+  
+<details>
+ <summary>Click to see details</summary>
+ <br />      
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrNullus&theme=omni)](https://git.io/streak-stats)<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Mr. Nullus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNullus&langs_count=10&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
   
 ![Mr. Nullus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNullus&theme=omni&show_icons=true) 
-
- ### Total visits to my profile<br>
+</details>
+<br>
+ 
+ ### 🌟 Total visits to my profile
+ 
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/MrNullus/count.svg" />
  </p>
