@@ -160,9 +160,11 @@ and looking to venture further into mobile.
  <summary>Click to see details</summary>
  <br />      
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrNullus&theme=omni)](https://git.io/streak-stats)<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Mr. Nullus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNullus&langs_count=10&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
-  
-![Mr. Nullus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNullus&theme=omni&show_icons=true) 
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=MrNullus&show_icons=true&theme=transparent&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNullus&hide_border=true&theme=transparent&layout=compact&langs_count=10" />
+<br>
+
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" ></img> 
 </details>
 <br>
  
