@@ -175,7 +175,7 @@ and looking to venture further into mobile.
   <p align="center"> 
     <img alingn="center" src="https://profile-counter.glitch.me/MrNullus/count.svg" />
     <br>
-    <img alingn="center" src="https://count.getloli.com/get/@MrNullus.github.readme" />
+    <img alingn="center" src="https://count.getloli.com/get/@MrNullus?theme=rule34" />
   </br>
   </p>
  </details>
