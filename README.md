@@ -174,11 +174,14 @@ and looking to venture further into mobile.
   <br />      
   <p align="center"> 
     <img alingn="center" src="https://profile-counter.glitch.me/MrNullus/count.svg" />
+    <br>
+    <img alingn="center" src="https://count.getloli.com/get/@MrNullus.github.readme" />
+  </br>
   </p>
  </details>
   <br/>
-  
-<!-- ## 😎 3D Contribution 
+<!--
+## 😎 3D Contribution 
   <img src="https://github.com/msNullus/msNullus/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/> 
 
 <a href="http://www.github.com/msNullus"><img src="https://activity-graph.herokuapp.com/graph?username=msNullus&count_private=true&bg_color=000&color=ffffff&line=ffd100&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
