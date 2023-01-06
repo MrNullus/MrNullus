@@ -20,7 +20,7 @@ Focused on being a Full Stack developer 🐱‍💻 (having knowledge of front-e
 and looking to venture further into mobile.
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vwsxhen3b66vjuda6ytv7k3gsa&cover_image=true&theme=novatorem&show_offline=false&background_color=e52a6b&bar_color=e619ca&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31vwsxhen3b66vjuda6ytv7k3gsa&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vwsxhen3b66vjuda6ytv7k3gsa&cover_image=true&theme=novatorem&show_offline=false&background_color=f20707&bar_color=d317ba&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ### 🌟 Favorite quote:
