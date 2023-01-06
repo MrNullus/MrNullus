@@ -20,6 +20,8 @@ Focused on being a Full Stack developer 🐱‍💻 (having knowledge of front-e
 and looking to venture further into mobile.
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vwsxhen3b66vjuda6ytv7k3gsa&cover_image=true&theme=novatorem&show_offline=false&background_color=e52a6b&bar_color=e619ca&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31vwsxhen3b66vjuda6ytv7k3gsa&redirect=true)
+
 
 ### 🌟 Favorite quote:
   “Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.” – Rafael Lain
@@ -128,6 +130,37 @@ and looking to venture further into mobile.
     <a href="https://www.linkedin.com/in/dev-gustavo-henrique">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/gustavohenrique/">
     </a>
+  
+  ```diff
+            |    |              _.-7
+            |\.-.|             ( ,(_
+            | a a|              \\  \,
+            ) ["||          _.--' \  \\
+         .-'  '-''-..____.-'    ___)  )\
+        F   _/-``-.__;-.-.--`--' . .' \_L_
+       |   l  {~~} ,_\  '.'.      ` __.' )\
+       (    -.;___,;  | '- _       :__.'( /
+       | -.__ _/_.'.-'      '-._ .'      \\
+       |     .'   |  -- _                 '\,
+       |  \ /--,--{ .    '---.__.       .'  .'
+       J  ;/ __;__]. '.-.            .-' )_/
+       J  (-.     '\'. '. '-._.-.-'--._ /
+       |  |  '. .' | \'. '.    ._       \
+       |   \   T   |  \  '. '._  '-._    '.
+       F   J   |   |  '.    .  '._   '-,_.--`
+       F   \   \   F .  \    '.   '.  /
+      J     \  |  J   \  '.   '.    '/
+      J      '.L__|    .   \    '    |
+      |   .    \  |     \   '.   '. /
+      |    '    '.|      |    ,-.  (
+      F   | ' ___  ',._   .  /   '. \
+      F   (.'`|| (-._\ '.  \-      '-\
+      \ .-'  ( L `._ '\ '._ (
+ snd  /'  |  /  '-._\      ''\
+          `-'
+  ```
+
+  
 </p>
 </details>
 <br />
@@ -151,6 +184,7 @@ and looking to venture further into mobile.
  <br />      
        
  <img src="https://github-profile-trophy.vercel.app/?username=MrNullus&theme=dark&column=7" height="150" style="border-radius:50px;"/>
+
 </details>
 <br />
 
@@ -161,6 +195,7 @@ and looking to venture further into mobile.
  <br />      
   
 <p align="center">
+    <img src="./banner.jpg" alt="Banner" /> 
    <img src="https://github-readme-stats.vercel.app/api?username=MrNullus&show_icons=true&theme=transparent&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNullus&hide_border=true&theme=transparent&layout=compact&langs_count=10" />
 <br>
 
@@ -187,6 +222,35 @@ and looking to venture further into mobile.
 <a href="http://www.github.com/msNullus"><img src="https://activity-graph.herokuapp.com/graph?username=msNullus&count_private=true&bg_color=000&color=ffffff&line=ffd100&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->
 
-<img src="./banner.jpg" alt="Banner" /> 
-  
-![Snake animation](https://github.com/msNullus/msNullus/blob/output/github-contribution-grid-snake.svg)
+
+<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
+ 
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```  
+
+ ![Snake animation](https://github.com/msNullus/msNullus/blob/output/github-contribution-grid-snake.svg)
+ 
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
+</div>
+
