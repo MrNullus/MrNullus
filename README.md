@@ -31,7 +31,7 @@ and looking to venture further into mobile.
 ### 🎯 Areas of Interest
 - Full Stack Developer
 - Software Engineering
-- Web Design - UX & UI
+- Web Design
 
 
 
