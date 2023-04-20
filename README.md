@@ -1,28 +1,33 @@
 ![Github_header](https://user-images.githubusercontent.com/88898454/162613510-d24014b6-b4ea-4f67-ba4a-19b4d956ceab.png)
  
 <div align="center">
-   <h1>< Hello World!🚀 /></h1>
-   <h2>nameDeveloper === "Gustavo Henrique";</h2>
+ <h1>< Hello World!🚀 /></h1>
 </div>
 
  <!--<img align="" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&color=DA275E&width=1109&height=113&lines=%7B+I'am+love+you+code!%E2%9D%A4%EF%B8%8F+%7D;If+your+sin+is+to+love+computers%2C+then+you+are+in+the+right+brothel.">-->
  
 <img align="right" src="./img-avatar2.png" width="180px" height="180px" />
 
-
 ```diff
       ____
      /___/\_          ___  About me 👾
-    _\   \/_/\__     /     My name is Gustavo, I'm Brazilian and I'm a programming enthusiast.
-  __\       \/_/\   /      I am an obstinate person who is always looking for more and more challenges,
-  \   __    __ \ \         seeking excellence and adding more value to what I do.
- __\  \_\   \_\ \ \   __   Focused on being a Full Stack developer 🐱‍💻 
-/_/\\   __   __  \ \_/_/\  having knowledge of front-end and back-end technologies)         
-\_\/_\__\/\__\/\__\/_\_\/  and looking to venture further into developing mobile.                
+    _\   \/_/\__     /     
+  __\       \/_/\   /      
+  \   __    __ \ \         
+ __\  \_\   \_\ \ \   __   
+/_/\\   __   __  \ \_/_/\  
+\_\/_\__\/\__\/\__\/_\_\/  
    \_\/_/\       /_\_\/             
       \_\/       \_\/                  
 ```
 
+My name is Gustavo, I'm Brazilian and I'm a programming enthusiast.
+I am an obstinate person who is always looking for more and more challenges,
+seeking excellence and adding more value to what I do.
+Focused on being a Full Stack developer 🐱‍💻 
+having knowledge of front-end and back-end technologies)         
+and looking to venture further into developing mobile.                
+</center>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vwsxhen3b66vjuda6ytv7k3gsa&cover_image=true&theme=novatorem&show_offline=false&background_color=f20707&bar_color=d317ba&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
