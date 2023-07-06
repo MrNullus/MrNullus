@@ -8,7 +8,7 @@
  
 <img align="right" src="./img-avatar2.png" width="180px" height="180px" />
 
-<pre style="width: 50%;">
+<pre style="width: 50px;">
  <code>
         ____
      /___/\_          ___  About me 👾
