@@ -8,8 +8,9 @@
  
 <img align="right" src="./img-avatar2.png" width="180px" height="180px" />
 
-```diff
-      ____
+<pre style="width: 50%;">
+ <code>
+        ____
      /___/\_          ___  About me 👾
     _\   \/_/\__     /     
   __\       \/_/\   /      
@@ -18,8 +19,9 @@
 /_/\\   __   __  \ \_/_/\  
 \_\/_\__\/\__\/\__\/_\_\/  
    \_\/_/\       /_\_\/             
-      \_\/       \_\/                  
-```
+      \_\/       \_\/  
+ </code>
+</pre>
 
 My name is Gustavo, I'm Brazilian and I'm a programming enthusiast.
 I am an obstinate person who is always looking for more and more challenges,
