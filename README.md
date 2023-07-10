@@ -8,11 +8,18 @@
  
 <img align="right" src="./img-avatar2.png" width="180px" height="180px" />
 
-My name is Gustavo, I'm Brazilian and I'm a programming enthusiast.
-I am an obstinate person who is always looking for more and more challenges,
-seeking excellence and adding more value to what I do.
-Focused on being a Full Stack developer 🐱‍💻 
-having knowledge of front-end and back-end technologies) and looking to venture further into developing mobile.                
+My name is Gustavo, I'm Brazilian, and I'm a programming enthusiast. I am a determined individual who is always seeking new challenges and striving for excellence in everything I do. I have a strong focus on becoming a Full Stack developer 🐱‍💻, with knowledge of both front-end and back-end technologies, and I am also eager to explore mobile development further.
+
+I believe in continuous learning and keeping up with the latest trends and technologies in the programming world. By expanding my skills and knowledge, I aim to deliver high-quality solutions and add value to every project I work on.
+
+I am passionate about creating user-friendly and visually appealing applications that provide a seamless and enjoyable experience for users. I enjoy working in collaborative environments, where I can contribute my ideas and learn from others.
+
+In addition to programming, I have a keen interest in problem-solving, critical thinking, and attention to detail. These skills allow me to analyze complex situations and come up with effective solutions.
+
+I am excited about the opportunity to work on innovative projects and contribute to the ever-evolving world of technology. Let's connect and create something amazing together!
+
+Feel free to reach out to me for any collaboration or programming-related discussions. 🚀
+              
 </center>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vwsxhen3b66vjuda6ytv7k3gsa&cover_image=true&theme=novatorem&show_offline=false&background_color=f20707&bar_color=d317ba&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
