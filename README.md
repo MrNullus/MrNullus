@@ -8,17 +8,21 @@
  
 <img align="right" src="./img-avatar2.png" width="180px" height="180px" />
 
-My name is Gustavo, I'm Brazilian, and I'm a programming enthusiast. I am a determined individual who is always seeking new challenges and striving for excellence in everything I do. I have a strong focus on becoming a Full Stack developer 🐱‍💻, with knowledge of both front-end and back-end technologies, and I am also eager to explore mobile development further.
+## Hi there!  I'm Gustavo, a Brazilian 🇧🇷 programming enthusiast.
 
-I believe in continuous learning and keeping up with the latest trends and technologies in the programming world. By expanding my skills and knowledge, I aim to deliver high-quality solutions and add value to every project I work on.
+**Determined to become a Full Stack Developer ,** I'm eager to master front-end and back-end technologies, as well as mobile development .
 
-I am passionate about creating user-friendly and visually appealing applications that provide a seamless and enjoyable experience for users. I enjoy working in collaborative environments, where I can contribute my ideas and learn from others.
+**Passionate about creating user-friendly and visually appealing applications,** I love working in collaborative environments  where I can contribute my ideas and learn from others.
 
-In addition to programming, I have a keen interest in problem-solving, critical thinking, and attention to detail. These skills allow me to analyze complex situations and come up with effective solutions.
+**Always seeking new challenges and striving for excellence,** I believe in continuous learning  and keeping up with the latest trends in the programming world .
 
-I am excited about the opportunity to work on innovative projects and contribute to the ever-evolving world of technology. Let's connect and create something amazing together!
+**Problem-solving, critical thinking, and attention to detail** are my superpowers  that allow me to analyze complex situations and come up with effective solutions.
 
-Feel free to reach out to me for any collaboration or programming-related discussions. 🚀
+**I'm excited to work on innovative projects and contribute to the ever-evolving world of technology.** Let's connect and create something amazing together! ✨
+
+**Feel free to reach out for any collaboration or programming-related discussions.** 
+
+**Let's code!** 
               
 </center>
 
@@ -32,18 +36,20 @@ Feel free to reach out to me for any collaboration or programming-related discus
 
 ### 🎯 Areas of Interest
 - Full Stack Developer
-- Software Engineering
+- FrontEnd Developer
+- BackEnd Developer
+- Mobile Developer
 - Web Design
 
 
 
 ### ✍️ Studying Recently
-  -  Bootstrap && JQuery && ReactJS e Native && Sass;
+  -  Test (Jest, Cypress, etc) && CI/CD && Redux && Ruby on Rails;
 
 
 
 ### 📚 Upcoming studies:
-  -  Angular && PHP (with Laravel) && Vue && Node (with Express)
+  -  AWS Services && Big O Notation && Clean Arch
 
 <img align="right" src="./astronaut.png" width="280px" height="280px" />
 
@@ -60,7 +66,7 @@ Feel free to reach out to me for any collaboration or programming-related discus
  <br />      
 
 <kbd>
-  <kbd>📌 My Skills</kbd>
+  <kbd>📌</kbd>
   <br>
   <br>
   <img align="center" alt="Gustavo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -73,6 +79,28 @@ Feel free to reach out to me for any collaboration or programming-related discus
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Gustavo-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   <img align="center" alt="Gustavo-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+
+<img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+
+<img align="center" alt="Material-UI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+
+<img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+
+<img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+<img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
+<img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
+<img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+
+<img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+<img align="center" alt="Express.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+
+
  
   <!--   <img align="right" alt="" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
 </kbd>
