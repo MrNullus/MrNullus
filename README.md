@@ -26,9 +26,6 @@
               
 </center>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vwsxhen3b66vjuda6ytv7k3gsa&cover_image=true&theme=novatorem&show_offline=false&background_color=f20707&bar_color=d317ba&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-
 ### 🌟 Favorite quote:
   “Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.” – Rafael Lain
 
