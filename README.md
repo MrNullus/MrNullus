@@ -1,8 +1,15 @@
-![Github_header](https://user-images.githubusercontent.com/88898454/162613510-d24014b6-b4ea-4f67-ba4a-19b4d956ceab.png)
- 
-<div align="center">
- <h1>< Hello World!🚀 /></h1>
-</div>
+```
+    ██▓███   █    ██  ███▄    █  ██ ▄█▀   ▓█████▄  ▄▄▄           ██████  ██▓ ██▓  ██▒   █▓ ▄▄▄      
+  ▓██░  ██▒ ██  ▓██▒ ██ ▀█   █  ██▄█▒    ▒██▀ ██▌▒████▄       ▒██    ▒ ▓██▒▓██▒ ▓██░   █▒▒████▄    
+  ▓██░ ██▓▒▓██  ▒██░▓██  ▀█ ██▒▓███▄░    ░██   █▌▒██  ▀█▄     ░ ▓██▄   ▒██▒▒██░  ▓██  █▒░▒██  ▀█▄  
+  ▒██▄█▓▒ ▒▓▓█  ░██░▓██▒  ▐▌██▒▓██ █▄    ░▓█▄   ▌░██▄▄▄▄██      ▒   ██▒░██░▒██░   ▒██ █░░░██▄▄▄▄██ 
+  ▒██▒ ░  ░▒▒█████▓ ▒██░   ▓██░▒██▒ █▄   ░▒████▓  ▓█   ▓██▒   ▒██████▒▒░██░░██████▒▒▀█░   ▓█   ▓██▒
+  ▒▓▒░ ░  ░░▒▓▒ ▒ ▒ ░ ▒░   ▒ ▒ ▒ ▒▒ ▓▒    ▒▒▓  ▒  ▒▒   ▓▒█░   ▒ ▒▓▒ ▒ ░░▓  ░ ▒░▓  ░░ ▐░   ▒▒   ▓▒█░
+  ░▒ ░     ░░▒░ ░ ░ ░ ░░   ░ ▒░░ ░▒ ▒░    ░ ▒  ▒   ▒   ▒▒ ░   ░ ░▒  ░ ░ ▒ ░░ ░ ▒  ░░ ░░    ▒   ▒▒ ░
+  ░░        ░░░ ░ ░    ░   ░ ░ ░ ░░ ░     ░ ░  ░   ░   ▒      ░  ░  ░   ▒ ░  ░ ░     ░░    ░   ▒   
+              ░              ░ ░  ░         ░          ░  ░         ░   ░      ░  ░   ░        ░  ░
+                                          ░                                          ░                       
+```
 
  <!--<img align="" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&color=DA275E&width=1109&height=113&lines=%7B+I'am+love+you+code!%E2%9D%A4%EF%B8%8F+%7D;If+your+sin+is+to+love+computers%2C+then+you+are+in+the+right+brothel.">-->
  
@@ -234,9 +241,7 @@
  <details>
  <summary>Click to see details</summary>
   <br />      
-  <p align="center"> 
-    <img alingn="center" src="https://profile-counter.glitch.me/MrNullus/count.svg" />
-    <br>
+  <p align="center">
     <img alingn="center" src="https://count.getloli.com/get/@MrNullus?theme=rule34" />
   </br>
   </p>
@@ -253,33 +258,7 @@
 
 
 <!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
- 
-<!--   
-
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
--->
- 
- 
+<div align="center"> 
 ```bash
     .__________________________.
     | .___________________. |==|
@@ -301,7 +280,5 @@
 ```  
 
  ![Snake animation](https://github.com/msNullus/msNullus/blob/output/github-contribution-grid-snake.svg)
- 
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
 </div>
 
