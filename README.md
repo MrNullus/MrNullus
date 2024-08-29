@@ -146,15 +146,15 @@
  <br />      
        
  <p align="center">
-    <a href="https://github.com/dev-gustavo-henrique">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/dev-gustavo-herique">
-    </a>
+<!--     <a  target="_blank" href="https://github.com/dev-gustavo-henrique">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/mrnullus">
+    </a> -->
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:gustavojs417@gmail.com">
+    <a  target="_blank" href="mailto:gustavojs417@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavojs417@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/dev-gustavo-henrique">
+    <a target="_blank" href="https://www.linkedin.com/in/dev-punk-da-silva">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/gustavohenrique/">
     </a>
   
