@@ -51,7 +51,6 @@
   -  Test (Jest, Cypress, etc) && CI/CD && Redux && Ruby on Rails;
 
 
-
 ### 📚 Upcoming studies:
   -  AWS Services && Big O Notation && Clean Arch
 
@@ -129,6 +128,7 @@
 <details>
  <summary>Click to see details</summary>
  <br />      
+✅ High problem-solving skills
 
 ✅ Work collaboratively in a team
 
@@ -139,8 +139,6 @@
 ✅ Proactive
 
 ✅ Obstinate 
-
-✅ High problem-solving skills
 </details>
 <hr>
 <br/ >
@@ -153,9 +151,6 @@
  <br />      
        
  <p align="center">
-<!--     <a  target="_blank" href="https://github.com/dev-gustavo-henrique">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/mrnullus">
-    </a> -->
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a  target="_blank" href="mailto:gustavojs417@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavojs417@gmail.com">
@@ -237,25 +232,9 @@
 </details>
 <br>
  
- ## 🌟 Total visits to my profile
- <details>
- <summary>Click to see details</summary>
-  <br />      
-  <p align="center">
-    <img alingn="center" src="https://count.getloli.com/get/@MrNullus?theme=rule34" />
-  </br>
-  </p>
- </details>
  
   <br/>
   
-<!--
-## 😎 3D Contribution 
-  <img src="https://github.com/msNullus/msNullus/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/> 
-
-<a href="http://www.github.com/msNullus"><img src="https://activity-graph.herokuapp.com/graph?username=msNullus&count_private=true&bg_color=000&color=ffffff&line=ffd100&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
--->
-
 
 <!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 <div align="center"> 
@@ -279,7 +258,4 @@
  \ ------------------------------ /
   \______________________________/
 ```  
-
- ![Snake animation](https://github.com/msNullus/msNullus/blob/output/github-contribution-grid-snake.svg)
 </div>
-
