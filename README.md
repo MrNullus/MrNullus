@@ -17,7 +17,7 @@
 
 ## Hi there!  I'm Gustavo, a Brazilian 🇧🇷 programming enthusiast.
 
-**Determined to become a Full Stack Developer ,** I'm eager to master front-end and back-end technologies, as well as mobile development .
+**Determined to become a Software Enginner ,** I'm eager to master front-end and back-end technologies, as well as mobile development .
 
 **Passionate about creating user-friendly and visually appealing applications,** I love working in collaborative environments  where I can contribute my ideas and learn from others.
 
